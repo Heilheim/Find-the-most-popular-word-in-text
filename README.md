@@ -1,0 +1,1 @@
+# The program outputs the most popular word in the text to the console. If there are several such words, then any of them is output.
